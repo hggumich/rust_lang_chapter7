@@ -1,4 +1,4 @@
-use crate::garden::vegetables::Asparagus;
+use crate::garden::vegetable::Asparagus;
 
 pub mod garden;
 
